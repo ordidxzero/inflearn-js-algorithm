@@ -1,3 +1,5 @@
+// 02. 세 수 중 최솟값
+
 const testCase1 = [6, 7, 11];
 const testCase2 = [13, 33, 17];
 
