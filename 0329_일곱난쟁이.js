@@ -1,6 +1,6 @@
 // 08. 일곱난쟁이
 
-const testCase = [20, 7, 23, 19, 10, 15, 25, 8, 13];
+const testCase = [20, 7, 23, 19, 10, 17, 25, 8, 13];
 
 // 9개의 합을 구한 후, 2개를 뺐을 때 100이 되는 아이디어를 사용함
 function mySolution1(arr) {
@@ -11,6 +11,7 @@ function mySolution1(arr) {
       if (sum - arr[i] - arr[j] === 100) {
         answer.splice(i, 1);
         answer.splice(j, 1);
+        return answer;
       }
     }
   }
