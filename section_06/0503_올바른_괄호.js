@@ -12,6 +12,13 @@ function mySolution1(str) {
   return "NO";
 }
 
+// 재귀를 이용한 판정법
+function mySolution2(s) {
+  if (s.length === 0) return "YES";
+  if (s === s.split("()").join("")) return "NO";
+  return mySolution2(s.split("()").join(""));
+}
+
 function solution(s) {
   let answer = "YES";
   stack = [];
