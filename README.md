@@ -88,8 +88,8 @@
 <details style="font-size: 1.25rem">
 <summary>Section 07. 정렬과 그리디, 결정 알고리즘 </summary>
 
-- [ ] 1.  선택정렬
-- [ ] 2.  버블정렬
+- [x] 1.  선택정렬
+- [x] 2.  버블정렬
 - [ ] 3.  Special Sort
 - [ ] 4.  삽입정렬
 - [ ] 5.  LRU
