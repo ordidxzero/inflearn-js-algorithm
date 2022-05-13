@@ -1,6 +1,6 @@
 # Inflearn JS Algorithm
 
-<details style="font-size: 1.25rem">
+<details style="font-size: 1.5rem">
 <summary>Section 01. 기본 문제 풀이 </summary>
 
 - [x] 1.  세 수 중 최솟값
@@ -23,7 +23,7 @@
 
 </details>
 <br />
-<details style="font-size: 1.25rem">
+<details style="font-size: 1.5rem">
 <summary>Section 02. 1,2차원 탐색 </summary>
 
 - [x] 1.  큰 수 출력하기
@@ -36,7 +36,7 @@
 
 </details>
 <br />
-<details style="font-size: 1.25rem">
+<details style="font-size: 1.5rem">
 <summary>Section 03. 문자열 탐색 </summary>
 
 - [x] 1.  회문문자열
@@ -47,7 +47,7 @@
 
 </details>
 <br />
-<details style="font-size: 1.25rem">
+<details style="font-size: 1.5rem">
 <summary>Section 04. 완전탐색 (블루투포스) </summary>
 
 - [x] 1.  자리수의 합
@@ -58,7 +58,7 @@
 
 </details>
 <br />
-<details style="font-size: 1.25rem">
+<details style="font-size: 1.5rem">
 <summary>Section 05. 효율성 (투포인터알고리즘, 슬라이딩윈도우, 해쉬) </summary>
 
 - [x] 1.  두 배열 합치기
@@ -72,7 +72,7 @@
 
 </details>
 <br />
-<details style="font-size: 1.25rem">
+<details style="font-size: 1.5rem">
 <summary>Section 06. 자료구조 (스택, 큐) </summary>
 
 - [x] 1.  올바른 괄호
@@ -85,13 +85,13 @@
 
 </details>
 <br />
-<details style="font-size: 1.25rem">
+<details style="font-size: 1.5rem">
 <summary>Section 07. 정렬과 그리디, 결정 알고리즘 </summary>
 
 - [x] 1.  선택정렬
 - [x] 2.  버블정렬
 - [x] 3.  Special Sort
-- [ ] 4.  삽입정렬
+- [x] 4.  삽입정렬
 - [ ] 5.  LRU
 - [ ] 6.  장난꾸러기 현수
 - [ ] 7.  좌표 정렬
@@ -103,11 +103,11 @@
 
 </details>
 <br />
-<details style="font-size: 1.25rem">
+<details style="font-size: 1.5rem">
 <summary>Section 08. 재귀함수와 완전탐색 (깊이우선탐색, DFS) </summary>
 
 - [ ] 1.  재귀함수
-- [ ] 2.  이진수 출력(째귀)
+- [ ] 2.  이진수 출력(재귀)
 - [ ] 3.  이진트리순회
 - [ ] 4.  부분집합 구하기
 - [ ] 5.  합이 같은 부분집합
@@ -124,7 +124,7 @@
 
 </details>
 <br />
-<details style="font-size: 1.25rem">
+<details style="font-size: 1.5rem">
 <summary>Section 09. 그래프와 탐색 (DFS, BFS) </summary>
 
 - [ ] 1.  경로탐색(DFS)
@@ -137,7 +137,7 @@
 
 </details>
 <br />
-<details style="font-size: 1.25rem">
+<details style="font-size: 1.5rem">
 <summary>Section 10. Dynamic Programming </summary>
 
 - [ ] 1.  계단오르기
